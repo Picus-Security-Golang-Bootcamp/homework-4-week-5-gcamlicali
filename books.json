@@ -1,0 +1,52 @@
+[
+		{	
+			"ID":		1,
+			"Name":		"Anna Karenina",
+			"Pages":	1062,
+			"Stock":	10,
+			"Price":	26,
+			"StockID":	"A-153738",
+			"ISBN":		6053604097,
+			"AuthorID":	22
+		},
+		{	
+			"ID":		2,
+			"Name":		"To Kill a Mockingbird",
+			"Pages":	296,
+			"Stock":	50,
+			"Price":	35,
+			"StockID":	"B-6897164",
+			"ISBN":		446310786,
+			"AuthorID":	33
+		},
+		{
+			"ID":		3,
+			"Name":		"The Great Gatsby",
+			"Pages":	180,
+			"Stock":	30,
+			"Price":	13,
+			"StockID":	"B-847230986",
+			"ISBN":		141182636,
+			"AuthorID":	44
+		},
+		{	
+			"ID":		4,
+			"Name":		"All Creatures Great and Small",
+			"Pages":	448,
+			"Stock":	15,
+			"Price":	35,
+			"StockID":	"A-443496456",
+			"ISBN":		1250057833,	
+			"AuthorID":	55			
+		},
+		{	
+			"ID":		5,
+			"Name":		"Youth",
+			"Pages":	256,
+			"Stock":	5,
+			"Price":	10,
+			"StockID":	"A-443496456",
+			"ISBN":		6053325392,	
+			"AuthorID":	22			
+		}
+]
